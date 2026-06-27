@@ -119,7 +119,7 @@ Insights:
 
 ## Dashboard Preview
 
-![Rainfall Analysis](Dashboard1.png)
+![Rainfall Analysis](Dashboarg1.png)
 
 ![Temperature Analysis](Dashboard2.png)
 
